@@ -9,7 +9,7 @@ I thought I would try and replicate the fivethirtyeight style within matlab. My 
 I used the excellent [export_fig](https://github.com/ojwoodford/export_fig) for rendering the png files.
 
 
-It's still a fairly crude implementation. Have not done any testing beyond the two test cases included.
+It's still a fairly crude implementation. Will likely break if anything too 'novel' is tried. Have not done any testing beyond the two test cases included. 
 
 
 
