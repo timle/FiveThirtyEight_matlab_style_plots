@@ -4,7 +4,10 @@ ns matlab style plots
 Inspired by this post:
 https://www.dataorigami.net/blogs/fivethirtyeight-mpl
 
-I thought I would try and replicate the fivethirtyeight style within matlab. My goal was to do zero post processing. What you see here is generated on the fly. I did use the excellent [export_fig](https://github.com/ojwoodford/export_fig) for rendering the png files.
+
+I thought I would try and replicate the fivethirtyeight style within matlab. My goal was to require no post touch-ups. What you see here is generated on the fly. 
+I used the excellent [export_fig](https://github.com/ojwoodford/export_fig) for rendering the png files.
+
 
 It's still a fairly crude implementation. Have not done any testing beyond the two test cases included.
 
