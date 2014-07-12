@@ -12,3 +12,4 @@ function dataout = mkInvExpData_helper(mean,minV,maxV)
     dataout = baseVals - min(baseVals(:));
     dataout = (dataout/range(dataout(:)))*(maxV-minV);
     dataout = dataout + minV;
+    

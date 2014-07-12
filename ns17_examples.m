@@ -87,7 +87,7 @@
 
     conf.xticklabel_suffix = {};
     conf.yticklabel_suffix = {};
-
+ 
     conf.line_label_xpos_lim = [10,70];
 
     conf.plot_lineWidth = 2.5;
@@ -117,4 +117,4 @@
     conf.footerHeight = 0.04;
 
 %do it
-    plotter(d,conf)
+    ns17_plotter(conf)
