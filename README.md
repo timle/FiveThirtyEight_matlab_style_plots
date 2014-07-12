@@ -15,7 +15,7 @@ It's still a fairly crude implementation. Have not done any testing beyond the t
 
 
 ## Example 1
-![Alt text](http://github.com/timle/ns_matlab_style_plots/blob/master/ex1%2012-Jul-2014_low_.png "Example 1")
+![Alt text](https://raw.githubusercontent.com/timle/ns_matlab_style_plots/master/ex1%2012-Jul-2014_low_.png "Example 1")
 
 ## Example 2
-![Alt text](https://github.com/timle/ns_matlab_style_plots/blob/master/ex2%2012-Jul-2014_low_.png "Example 2")
+![Alt text](https://raw.githubusercontent.com/timle/ns_matlab_style_plots/master/ex2%2012-Jul-2014_low_.png "Example 2")
