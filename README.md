@@ -1,4 +1,10 @@
-ns_matlab_style_plots
+ns matlab style plots
 =====================
 
-fivethirtyeight style plots in matlab
+Inspired by this post:
+https://www.dataorigami.net/blogs/fivethirtyeight-mpl
+
+I thought I would try and replicate the fivethirtyeight style within matlab. 
+
+
+It's still a fairly crude implementation, but it does work.
