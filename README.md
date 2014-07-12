@@ -1,4 +1,4 @@
-ns matlab style plots
+Nate Silver Matlab Style Plots
 =====================
 
 Inspired by this post:
