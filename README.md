@@ -14,11 +14,11 @@ It's still a fairly crude implementation. Will likely break if anything too 'nov
 
 ## how to
 The main function is:
-  ns17_plotter.m
+```ns17_plotter.m```
 Two examples (shown below) can be run via:
-  ns17_examples.m
+```ns17_examples.m```
 The first examples uses 
-  mkInvExpData_helper.m
+```mkInvExpData_helper.m```
 To generate data.
 
 
