@@ -1,5 +1,6 @@
 %% first plot
 %data
+    conf = [];
     %mkInvExpData_helper generates some nice looking data
     d{1} = mkInvExpData_helper(20,60,100);
     d{2} = mkInvExpData_helper(30,50,100);
@@ -18,7 +19,7 @@
     conf.grid_draw_lim_x = [-5; 105];
 
     conf.plot_margin_prcnt_x = [.1; 0];
-    conf.plot_margin_prcnt_y = [.1; .1];
+    conf.plot_margin_prcnt_y = [.1; .15];
 
     conf.xtick = 0:10:100;
     conf.ytick = 0:10:100;
@@ -52,13 +53,14 @@
     conf.footer_txt_left = 'timle';
     conf.footer_txt_right = 'source: rand(), a computer, planet earth';
 
-    conf.footer_parameters = {'FontName','tahoma','FontSize',11,'Color','white'};
+    conf.footer_parameters = {'FontName','tahoma','FontSize',10,'Color','white'};
     conf.footerHeight = 0.04;
 %do it
     ns17_plotter(conf)
     
     
 %% second plot
+conf = [];
 %data
     dat = 1:55;
     jitter = randi(10,[1 numel(dat)]) - 5;
@@ -113,7 +115,7 @@
 
     conf.footer_txt_left = 'timle';
     conf.footer_txt_right = 'source: rand(), a computer, planet earth';
-    conf.footer_parameters = {'FontName','tahoma','FontSize',11,'Color','white'};
+    conf.footer_parameters = {'FontName','tahoma','FontSize',10,'Color','white'};
     conf.footerHeight = 0.04;
 
 %do it
