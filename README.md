@@ -12,7 +12,7 @@ I used the excellent [export_fig](https://github.com/ojwoodford/export_fig) for 
 It's still a fairly crude implementation. Will likely break if anything too 'novel' is tried. Have not done any testing beyond the two test cases included. 
 
 
-## how to
+## How To
 The main function is:
 ```
 ns17_plotter.m
