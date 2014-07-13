@@ -12,7 +12,7 @@ Matlab does not offer an easy way to remove the axis lines, while retaining the 
 I used the excellent [export_fig](https://github.com/ojwoodford/export_fig) for rendering the png files.
 
 
-It's still a fairly crude implementation. Will likely break if anything too 'novel' is tried. Have not done any testing beyond the two test cases included. 
+It's still a fairly crude implementation. Will likely break if anything too novel is tried. Have not done any testing beyond the two test cases included. 
 
 
 ## How To
