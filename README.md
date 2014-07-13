@@ -5,7 +5,10 @@ Inspired by this post:
 https://www.dataorigami.net/blogs/fivethirtyeight-mpl
 
 
-I thought I would try and replicate the fivethirtyeight style within matlab. My goal was to require no post touch-ups. What you see here is generated on the fly. 
+I thought I would try and replicate the fivethirtyeight style within matlab. My goal was to require no post touch-ups. What you see here is generated on the fly.  
+
+Matlab does not offer an easy way to remove the axis lines, while retaining the tick labels and grid. So the bulk of the code deals with drawing those elements manually.  
+
 I used the excellent [export_fig](https://github.com/ojwoodford/export_fig) for rendering the png files.
 
 
