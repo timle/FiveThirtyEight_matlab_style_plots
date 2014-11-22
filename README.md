@@ -2,7 +2,7 @@ Nate Silver Matlab Style Plots
 =====================
 
 Inspired by this post:
-https://www.dataorigami.net/blogs/fivethirtyeight-mpl
+http://dataorigami.net/blogs/napkin-folding/17543615-replicating-538s-plot-styles-in-matplotlib
 
 
 I thought I would try and replicate the fivethirtyeight style within MATLAB. My goal was to require no post touch-ups. What you see here is generated on the fly.  
